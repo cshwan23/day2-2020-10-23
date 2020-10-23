@@ -64,7 +64,13 @@
 		
 		
 		//학생의 결혼 여부 
-		boolean marriage = true;
+		boolean is_marriage = true;
+		// is 가 있으면 ~이냐? 라는 질문형이 된다. 
+		
+		int marriage = 0;
+		
+		//출력할거면
+		String marriage1 = "기혼";
 		
 		
 		
